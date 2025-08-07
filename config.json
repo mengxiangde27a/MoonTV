@@ -84,6 +84,9 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
+    },
+    "mingxing":{
+      "api":"https://cj.jijisi.com/api.php/provide/vod",
+      "name":"明星采集“
   }
 }
